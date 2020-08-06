@@ -85,6 +85,8 @@ Please care about the screen composition :
 
 About the data: it is a clean synthetic data of French civil statuses. This file is a simple csv with no formatting or encoding problem. In the [advanced tutorial](/advanced_tutorial) you'll learn to deal with fixed with formats and encoding problems.
 
+The dataset is automatically saved and you can go to the next step.
+
 ### **Data preparation** : Create your first recipe
 
 Create a new recipe :
