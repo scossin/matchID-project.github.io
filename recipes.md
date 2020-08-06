@@ -399,7 +399,7 @@ This methods applies only on a full dataset an should have the flag `chunked: Fa
   train_rescoring_model:
     input:
       dataset: rnipp_agrippa
-      chunked: False    # <== this is the option to unckunk your dataset
+      chunked: False    # <== this is the option to unchunk your dataset
 ```
 
 To build a model, here's the way:
