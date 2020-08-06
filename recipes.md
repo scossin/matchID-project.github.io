@@ -147,7 +147,7 @@ Here's an example:
 
 Every dataengineer or datascientist wants to optimize the algorithm knowing what it does.
 
-This method execute pure python code, given that the data in input is the `df` dataframe processed by the recipes above. You should use this method everytime you process large volumes, because the `apply` method
+This method execute pure python code, given that the data in input is the `df` dataframe processed by the recipes above. You should use this method everytime you process large volumes, because the `apply` method is much slower. 
 
 The values of the dataframe are accessible within the `row` array.
 A particular `column` value is available in `row['column']` as in `column`.
